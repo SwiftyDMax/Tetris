@@ -1,4 +1,5 @@
-![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/a08c16d2-fa14-4ec3-bea4-342eaa9448e6)# Tetris
+# Tetris
+![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/a08c16d2-fa14-4ec3-bea4-342eaa9448e6)
 - This is Tetris game made which features a new piece, a small cube.
 - The project was codded TASM in x86 Assembly
 - Made by Max Maerov 2024 for a high school year project
