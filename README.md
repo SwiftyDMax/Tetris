@@ -5,7 +5,8 @@
 - Made by Max Maerov 2024 for a high school year project.
 ## In game samples
 ![readmetetris](https://github.com/SwiftyDMax/Tetris/assets/163437026/1d29f08f-f65d-43ce-b438-200b84a53ab3) ![readmetetris2](https://github.com/SwiftyDMax/Tetris/assets/163437026/e262a8b5-d2aa-42f9-ad72-3f64085765ba)
-![ezgif com-video-to-gif-converter](https://github.com/SwiftyDMax/Tetris/assets/163437026/feaf71c6-8cee-42a9-a697-ce935cdcc75a)
+![ezgif com-video-to-gif-converter (1)](https://github.com/SwiftyDMax/Tetris/assets/163437026/3d3f4ec3-ae91-4c29-ba8d-c9316d5e1dd2)
+
 ## Explanation on how to run the code
 1. Download **DOSBox** from [this link.](https://sourceforge.net/projects/dosbox/files/latest/download)
 2. Download **TASM from** [this link.](https://sourceforge.net/projects/guitasm8086/files/latest/download) 
