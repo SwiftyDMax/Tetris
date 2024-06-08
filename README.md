@@ -11,14 +11,14 @@
 2. Download TASM from [this link](https://sourceforge.net/projects/guitasm8086/files/latest/download) 
 3. Insert TASM.EXE, TLINK.EXE and all of the project files into C:\TASM\BIN
 4. Run the following command in the DOSBox emlator
-	```
+```
  mount c: c:\
  c: 
 cd tasm
 cd bin
 cycles=max
-tetris
-	```
+tetris	
+```
 
  
 
