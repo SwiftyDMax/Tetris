@@ -8,7 +8,7 @@
 ![ezgif com-video-to-gif-converter](https://github.com/SwiftyDMax/Tetris/assets/163437026/feaf71c6-8cee-42a9-a697-ce935cdcc75a)
 ### Explanation on how to run the code
 - Download DOSBox from [this link](https://sourceforge.net/projects/dosbox/files/latest/download)
-
+- Download TASM from [this link](https://sourceforge.net/projects/guitasm8086/files/latest/download)
 
 
 
