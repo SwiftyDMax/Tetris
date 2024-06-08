@@ -35,7 +35,7 @@ tetris
 3. **When you end the game** you are shown to
    1. Final **Score**
    2. **Time** that took to end the game
-   3. **2 options**
+   3. **2 options** :
       
    - ESC - Quit the game
      
