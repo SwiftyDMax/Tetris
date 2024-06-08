@@ -32,7 +32,8 @@ tetris
    
  ![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/bb568946-476f-43ae-83cf-57f0e72bed12)
 
-3. **When you end the game** you have **2** options
+3. **When you end the game** you are shown your find score and how long it took you to complete the game
+    you have **2** options
    - ESC - Quit the game
    - Enter - Play again
 
