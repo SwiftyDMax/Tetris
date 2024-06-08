@@ -7,7 +7,7 @@
 ![readmetetris](https://github.com/SwiftyDMax/Tetris/assets/163437026/1d29f08f-f65d-43ce-b438-200b84a53ab3) ![readmetetris2](https://github.com/SwiftyDMax/Tetris/assets/163437026/e262a8b5-d2aa-42f9-ad72-3f64085765ba)
 ![ezgif com-video-to-gif-converter](https://github.com/SwiftyDMax/Tetris/assets/163437026/feaf71c6-8cee-42a9-a697-ce935cdcc75a)
 ### Explanation on how to run the code
--Download DosBox from [this link](https://www.dosbox.com/download.php?main=1)
+- Download DosBox from [this link]([https://www.dosbox.com/download.php?main=1](https://sourceforge.net/projects/dosbox/files/latest/download))
 
 
 
