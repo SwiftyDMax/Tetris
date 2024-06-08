@@ -32,7 +32,10 @@ tetris
    
  ![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/bb568946-476f-43ae-83cf-57f0e72bed12)
 
-3. **When you end the game** you are shown to  1. Final **Score** 2. **Time** that took to end the game 3. Two options
+3. **When you end the game** you are shown to
+   1. Final **Score**
+   2. **Time** that took to end the game
+   3. Two options
    - ESC - Quit the game
    - Enter - Play again
 
