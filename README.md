@@ -6,7 +6,7 @@
 ## In game samples
 ![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/1ef9df08-4b57-4345-9357-d3e447fad3cb)
 ![image](https://github.com/SwiftyDMax/Tetris/assets/163437026/2b4ec998-e464-4cd1-8991-45c5a9bb9860)
-(https://github.com/SwiftyDMax/Tetris/assets/163437026/7d5bf1e5-2d5e-4229-9f84-f51ab59f04fe)
+![ezgif com-video-to-gif-converter](https://github.com/SwiftyDMax/Tetris/assets/163437026/feaf71c6-8cee-42a9-a697-ce935cdcc75a)
 
 
 
