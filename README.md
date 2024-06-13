@@ -9,7 +9,7 @@
 
 ## Explanation on how to run the code
 1. Download **DOSBox** from [this link](https://sourceforge.net/projects/dosbox/files/latest/download)
-2. Download **TASM from** [this link]([https://sourceforge.net/projects/guitasm8086/files/latest/download](https://drive.google.com/file/d/19oUWlHJLEFPkPJ95xiZ1V9OgOdywMtuE/view)) 
+2. Download **TASM from** [this link](https://drive.google.com/file/d/19oUWlHJLEFPkPJ95xiZ1V9OgOdywMtuE/view)
 3.Make sure that **TASM.EXE**, **TLINK.EXE** are inserted  and download **ALL** of the project files into **C:\TASM\BIN**.
 4. Run the following command in the **DOSBox emulator**.
 ```
