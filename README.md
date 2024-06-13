@@ -8,9 +8,9 @@
 ![ezgif com-video-to-gif-converter (1)](https://github.com/SwiftyDMax/Tetris/assets/163437026/3d3f4ec3-ae91-4c29-ba8d-c9316d5e1dd2)
 
 ## Explanation on how to run the code
-1. Download **DOSBox** from [this link](https://sourceforge.net/projects/dosbox/files/latest/download)
-2. Download **TASM from** [this link](https://drive.google.com/file/d/19oUWlHJLEFPkPJ95xiZ1V9OgOdywMtuE/view)
-3.Make sure that **TASM.EXE**, **TLINK.EXE** are inserted  and download **ALL** of the project files into **C:\TASM\BIN**.
+1. Download **DOSBox** from [this link](https://sourceforge.net/projects/dosbox/files/latest/download).
+2. Download **TASM from** [this link](https://drive.google.com/file/d/19oUWlHJLEFPkPJ95xiZ1V9OgOdywMtuE/view).
+3. Make sure that **TASM.EXE**, **TLINK.EXE** are inserted  and download **ALL** of the project files into **C:\TASM\BIN**.
 4. Run the following command in the **DOSBox emulator**.
 ```
 mount c: c:\
